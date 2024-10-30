@@ -6,7 +6,7 @@
 </p>
 
 ### About me:
-* Programs for fun, interested in software development
+* I build fun little projects primarily in C++, some of which may or may not become real projects
 * Interested in mathematics, physics, and linguistics
 * Touhou Project fan, 1cc's on Hard in EoSD and PCB
 
@@ -15,6 +15,7 @@
     * C/C++ 
     * Go
     * Java
+    * C#
     * SQL (for databases)
 * Frontend: 
     * JavaScript/TypeScript
