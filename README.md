@@ -8,6 +8,12 @@
 ### About me:
 * I build fun little projects primarily in C++, some of which may or may not become real projects
 * Interested in mathematics, physics, and linguistics
+    * Number theory
+    * Complex analysis
+    * Cryptography
+    * Information theory
+    * Quantum physics
+    * Etymologies, writing systems, taxonomic classifications
 * Touhou Project fan, 1cc's on Hard in EoSD and PCB
 
 ### Programming languages:
