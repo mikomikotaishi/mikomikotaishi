@@ -1,4 +1,4 @@
-<h3 align = "center"><samp>Hello!<br>こんにちは！<br>Здравствуйте!</samp></h3>
+<h3 align = "center"><samp>/ᐠ ˵> ⩊ <˵マ<br>Hello!<br>こんにちは！<br>Здравствуйте!</samp></h3>
 <p align = "left"><br>
     <samp>
         I'm <span style = "color:#65ebf6">Miko</span>, a Pure Mathematics undergraduate student at the University of Waterloo.<br><br>
@@ -6,21 +6,32 @@
 </p>
 
 ### About me:
-* I build fun projects, particularly in things that interest me the most
-* Interested in mathematics, physics, and linguistics
+I build fun projects, particularly in things that interest me the most.
+
+C++ and Java are my bread and butter, but I quite like Rust too.
+
+#### Interests
+* Mathematics
     * Number theory
     * Complex analysis
     * Cryptography
     * Information theory
-    * Quantum physics
+* Physics
+    * Fluid dynamics
+    * Computational physics
+    * Differential equations
+    * Quantum physics/theory
+* Linguistics
     * Etymologies, writing systems, taxonomic classifications
-* Touhou Project fan, 1cc's on Hard in EoSD and PCB
+* Touhou Project
+    * 1cc's on Hard in EoSD and PCB
 
 ### Programming languages:
 * Backend: 
     * C/C++ 
     * Java
     * C#
+    * Rust
     * Go
     * SQL (for databases)
 * Frontend: 
@@ -28,8 +39,6 @@
     * HTML/CSS
 * Research work: 
     * Python
-* Currently learning:
-    * Rust
 
 <details align = "left">
     <summary>Details</summary><br>
