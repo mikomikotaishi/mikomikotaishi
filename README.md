@@ -1,0 +1,53 @@
+<h3 align = "center"><samp>/ᐠ ˵> ⩊ <˵マ<br>Hello!<br>こんにちは！<br>Здравствуйте!</samp></h3>
+<p align = "left"><br>
+    <samp>
+        I'm <span style = "color:#65ebf6">Miko</span>, a mathematics undergraduate student.<br><br>
+    </samp>
+</p>
+
+### About me
+
+I build fun projects, particularly in things that interest me the most.
+
+C++ and Java are my bread and butter, but I quite like Rust too.
+
+#### Interests
+
+* Mathematics
+  * Number theory
+  * Complex analysis
+  * Cryptography
+  * Information theory
+* Physics
+  * Fluid dynamics
+  * Computational physics
+  * Differential equations
+  * Quantum physics/theory
+* Linguistics
+  * Etymologies, writing systems, taxonomic classifications
+* Touhou Project
+  * 1cc's on Hard in EoSD and PCB
+
+### Languages
+
+* General:
+  * C++ 
+  * Java
+  * C#
+  * Rust
+  * Go
+  * Python
+  * TypeScript, Node.js
+* Frontend:
+  * HTML/CSS, TypeScript
+* Mobile applications:
+  * Swift
+  * Kotlin
+
+<details align = "left">
+    <summary>Details</summary><br>
+    <p align = "center">
+        <img src = "https://github-readme-stats.vercel.app/api?username=mikomikotaishi&include_all_commits=true&show_icons=true&theme=tokyonight"><br>
+    </p>
+</details>
+<a href = "https://github.com/mikomikotaishi/mikomikotaishi" target="_blank"><img src = "https://img.shields.io/github/last-commit/mikomikotaishi/mikomikotaishi?label=profile%20updated&style=flat&color=green">
